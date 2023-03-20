@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Canal Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1,Canal 10 Chiapas
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1,Canal M
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1,Tv CNT
+https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1854842063.m3u8
+
+#EXTINF:-1,CANAL28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/chunks.m3u8
+
+#EXTINF:-1,GALIC
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1,TV NOTICIA
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1,CANL04
+http://streaming.arcast.com.ar:1935/canal4esquel/canal4esquel/chunklist_w283167105.m3u8
+
+#EXTINF:-1,CIUDAD TV CHACO
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1623593551.m3u8
+
+#EXTINF:-1,TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
